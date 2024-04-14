@@ -31,6 +31,8 @@
 - Utilized technologies such as PyTorch, Transformers, Git and the PapersWithCode API to develop an RAG application for researchers, while using LlamaIndex. 
 - Stored indices in a vector database called Pinecone for an LLM Gemini Pro to effectively retrieve information about the latest AI in mental health research papers.
 
+![RAG Application](/assets/img/RAG.png)
+
 ### Vehicle Insurance Purchase Predictor
 [Demo](https://insurancepurchaseprediction.azurewebsites.net/predictdata)
 
