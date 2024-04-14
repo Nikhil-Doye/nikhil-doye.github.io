@@ -1,4 +1,4 @@
-# Machine Learning Engineer
+# Data Scientist
 
 #### Technical Skills: Python, R, SQL, Azure, Power BI, Machine Learning, Deep Learning, GenAI
 
