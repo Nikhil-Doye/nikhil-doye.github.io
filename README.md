@@ -13,7 +13,7 @@
 - Achieved F1-score of 0.86533 by incorporating all the steps of the data science solution lifecycle to predict student dropout from courses
 
 ### Mental Health Research RAG @ Diall AI Mental Health Hackathon (_February 2024 - March 2024_)                        
-- Utilized technologies such as Langchain and the PapersWithCode API to develop an RAG application for researchers, while using LlamaIndex. 
+- Utilized technologies such as Langchain, LlamaIndex, OpenAI API and the PapersWithCode API to develop an RAG application for researchers. 
 - Stored indices in a vector database called Pinecone for an LLM Gemini Pro to effectively retrieve information about the latest AI in mental health research papers.
 
 ![RAG Application](/assets/img/RAG.png)
