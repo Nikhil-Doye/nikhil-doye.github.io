@@ -3,8 +3,8 @@
 #### Technical Skills: Python, R, SQL, Azure, Power BI, Machine Learning, Deep Learning, GenAI
 
 ## Education							       		
-- M.S., Applied Machine Intelligence	| Northeastern University (_June 2025_)	 			        		
-- B.Tech, Electrical Engineering | Indian Institute of Technology (_May 2021_)
+- M.S., Applied Machine Intelligence	| Northeastern University	 			        		
+- B.Tech, Electrical Engineering | Indian Institute of Technology
 
 ## Work Experience
 ### Power BI Developer @ Fix-It 24/7 Group (_December 2023 - Present_) 
